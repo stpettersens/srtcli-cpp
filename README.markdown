@@ -1,4 +1,4 @@
-#### :cinema::speech_balloon: srtcli-cpp
+#### :speech_balloon: srtcli-cpp
 > Utility to playback subtitles on the command line. (C++ port of Rust program).
 
 Usage: 
